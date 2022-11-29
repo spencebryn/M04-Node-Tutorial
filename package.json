@@ -1,0 +1,26 @@
+{
+  "name": "m04-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencebryn/M04-Node-Tutorial.git"
+  },
+  "author": "spencebryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencebryn/M04-Node-Tutorial/issues"
+  },
+  "homepage": "https://github.com/spencebryn/M04-Node-Tutorial#readme",
+  "dependencies": {
+    "egs": "^0.3.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
